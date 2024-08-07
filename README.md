@@ -9,4 +9,4 @@ InterviAgent 是一个为求职者提供模拟面试练习的智能助理，基�
 面向求职者，进行面试练习
 针对计算机领域求职者
 
-欢迎大家也来参加书生大模型实战营项目[书生浦语实战营第三期](https://github.com/InternLM/Tutorial)
+欢迎大家也来参加书生大模型实战营项目[https://github.com/InternLM/Tutorial](https://github.com/InternLM/Tutorial)
